@@ -1,0 +1,25 @@
+Outhay asthay okenspay! Eway illway ivegay youway 4 oiceschay. Ouyay aymay erformpay anyway ofway ethay ollowingfay inputway actionsway byay enteringway ethay orrespondingcay umbernay andway essingpray ethay enterway ey. Rememberkay oway ightymay oneway, youway ustmay useway ethay umbernay eyskay inway orderway otay oosechay ichwhay optionway youway antway. Iway opehay eway avehay erformedpay inway away ayway ostmay easingplay otay youway.
+    1 -- eatecray away eatherway ationstay
+    2 -- interactway ithway away eatherway ationstay
+    3 -- intpray ethay urrentcay eatherway inway allway yourway ationsstay
+    4 -- exitway ethay ogrampray
+Enterway 1, 2, 3, or 4: 
+Elcomeway otay ethay eatherway ationstay app!Youway areway ourway ightymay overlordway andway avioursay. Easeplay ivegay isthay eatherway ationstay away amenay atthay isway esslay anthay 50 aracterschay, oway eatgray ulerray!
+Amenay: 
+    1 -- inputway away ompletecay eatherway eadingray
+    2 -- intpray ethay urrentcay eatherway
+    3 -- intpray eatherway istoryhay
+    4 -- eturnray otay ainmay enumay
+Easeplay enterway ethay emperaturetay inway arenheitfay usingway ethay umbernay eyskay onway yourway eyboardkay: 
+Easeplay enterway ethay indway eedspay otay ethay earestnay olewhay umbernay: 
+Easeplay enterway ethay indway irectionday usingway anyway ofway ethay 4 ardinalcay orway ethay 4 intercardinalway irectionsday (exampleway-ortheastnay): 
+Eatherway Ationstay: 
+Emperaturetay: 
+Indway: 
+Enterway ethay orrespondingcay umbernay orfay ethay eatherway ationstay youway ishway toway useway: 
+	Ethay urrentcay eatherway orfay allway yourway ationsstay!
+Ouryay ordsway areway arfay ootay onglay orfay usway otay eadray!
+Eatgray oneway, youway avehay otnay enteredway allway ofway ethay informationway ecessarynay otay executeway isthay ommandcay. Easeplay electsay away enumay optionway otay enterway ethay orrespondingcay informationway orway esspray 2, otay exitway isthay enumay.
+Iway apologiseway ercifulmay oneway, utbay eway equireray anyway ofway ethay ollowingfay umbersnay omfray youway inway orderway otay electsay away enumay optionway.
+Avehay ercymay eatgray ulerray eway annotcay ocesspray isthay informationway!
+Isthay ationstay ashay onay istoryhay.

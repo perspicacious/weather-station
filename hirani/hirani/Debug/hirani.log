@@ -1,0 +1,3 @@
+﻿  Main.cpp
+\\zorak2\users$\s1024042\my documents\visual studio 2013\projects\hirani\hirani\main.cpp(86): warning C4715: 'determineSize' : not all control paths return a value
+  hirani.vcxproj -> \\zorak2\users$\s1024042\My Documents\Visual Studio 2013\Projects\hirani\Debug\hirani.exe

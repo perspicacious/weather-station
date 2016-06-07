@@ -1,0 +1,25 @@
+Thou hast spoken! We will give you 4 choices. You may perform any of the following input actions by entering the corresponding number and pressing the ENTER key. Remember O mighty one, you must use the number keys in order to choose which option you want. I hope we have performed in a way most pleasing to you.
+    1 -- create a weather station
+    2 -- interact with a weather station
+    3 -- print the current weather in all your stations
+    4 -- Exit the program
+Enter 1, 2, 3, or 4: 
+Welcome to the weather station app! You are our mighty overlord and saviour. Please give this weather station a name that is less than 50 characters, O great ruler!
+Name: 
+    1 -- input a complete weather reading
+    2 -- print the current weather
+    3 -- print weather history
+    4 -- return to main menu
+Please enter the temperature in farenheit using the number keys on your keyboard: 
+Please enter the wind speed to the nearest whole number: 
+Please enter the wind direction using any of the 4 cardinal or the 4 intercardinal directions (example-northeast): 
+Weather Station: 
+Temperature: 
+Wind: 
+Enter the corresponding number for the weather station you wish to use: 
+	The current weather for all your stations!
+Your words are far too long for us to read!
+Great One, you have not entered all of the information necessary to execute this command. Please select a menu option to enter the corresponding information or press 4, to exit this menu.
+I apologise merciful one, but we require any of the following numbers from you in order to select a menu option.
+Have mercy great ruler we cannot process this information!
+This station has no history.

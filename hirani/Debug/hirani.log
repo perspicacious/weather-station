@@ -1,0 +1,3 @@
+﻿  station.cpp
+m:\my documents\visual studio 2013\projects\hirani\hirani\station.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+  hirani.vcxproj -> M:\My Documents\Visual Studio 2013\Projects\hirani\Debug\hirani.exe
